@@ -1,0 +1,47 @@
+.nav-item {
+    font-size: 15px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.dropdown-1 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-1{
+   
+    margin: 5px;
+}
+
+.card-2{
+    
+    margin: 5px;
+   
+}
+
+.card-3 {
+    padding-top: 70px;
+}
+
+.lekha{
+    padding-bottom: 80px;
+}
+
+.lekha-1{
+    padding-bottom: 20px;
+}
+
+.button{
+    margin-left: 50px;
+    background-color: #FFB6C1 ;
+}
+
+.card-body {
+    margin-left: 20px;
+}
+
+
+.background {
+   color: #FF8C00 ;
+}
