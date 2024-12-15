@@ -47,3 +47,6 @@
     font-weight: bold;
 }
 
+.dropdown-item:hover{
+    background-color:#FFB6C1  ;
+    }

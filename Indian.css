@@ -45,3 +45,12 @@
 .background {
    color: #FF8C00 ;
 }
+
+.font{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.dropdown-item:hover{
+    background-color:#FFB6C1  ;
+    }
